@@ -1,25 +1,20 @@
 import React from "react";
-// import { Button } from '../ButtonElements'
 import Video from "../../videos/video.mp4";
 import {
   InfoContainer,
   InfoWrapper,
   InfoRow,
   Column1,
-  Column2,
   TextWrapper,
   TopLine,
   Heading,
   Subtitle,
   SocialIcons,
   SocialIconLink,
-  ImgWrap,
-  Img,
   InfoBg,
   VideoBg,
 } from "./InfoElements";
 import {
-  FaFacebook,
   FaInstagram,
   FaLinkedin,
   FaTwitter,
@@ -36,13 +31,7 @@ const Info = ({
   headline2,
   headline3,
   darkText,
-  description,
-  buttonLabel,
-  alt,
-  img,
-  primary,
-  dark,
-  dark2,
+  description
 }) => {
   return (
     <>

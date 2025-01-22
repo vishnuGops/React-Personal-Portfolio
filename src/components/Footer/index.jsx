@@ -23,7 +23,7 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to="/" onClick={toggleHome}>
-              <img src="/VGLogo.png" height="75" width="75"></img>
+              <img src="/VGLogo.png" height="75" width="75" alt="VG_Logo"></img>
             </SocialLogo>
             <WebsiteRights>
               VG © {new Date().getFullYear()} All rights reserved.

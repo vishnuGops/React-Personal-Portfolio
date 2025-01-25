@@ -29,21 +29,23 @@ const Services = () => {
           <ServicesP2>Feb 2024 – Present</ServicesP2>
           <ServicesDesc>
             <li>
-              Actively part of a pivotal team focused on the development and
-              innovation of next-generation products, contributing to the
-              advancement of cutting-edge technologies and solutions in the
-              industry.
+              Actively part of a pivotal team focused on developing and
+              innovating next-generation products, advancing cutting-edge
+              technologies and solutions while enhancing UI frontend performance
+              and unification by upgrading to Angular 17 and adhering to best
+              practices.
             </li>
             <li>
-              Spearheading the development of innovative software systems aimed
-              at drastically reducing detection time in molecular diagnostics,
-              optimizing efficiency for a range of tests.
+              Spearheading the development of innovative software systems to
+              significantly reduce detection times in molecular diagnostics,
+              optimizing efficiency for a wide range of tests and improving user
+              interface responsiveness.
             </li>
             <li>
               Gained deep expertise in computational pipelines and contributed
-              extensively to the development of new Cepheid software
-              applications, leading to improvement in calculation speed,
-              accuracy, and overall system performance.
+              extensively to new Cepheid software applications, driving
+              improvements in calculation speed, accuracy, system performance,
+              and overall frontend integration consistency.
             </li>
           </ServicesDesc>
         </ServicesCard>
